@@ -5,6 +5,7 @@ Q1. What is data type in js?
 Q2:What is closure in javascript?
 -----------------------------------------------------------------------------------------
 Q3. What is the difference between == and === in JavaScript?
+---------------------------
 Ans>  == is the loose equality operator, which compares two values after converting them to a common type (type coercion).
 === is the strict equality operator, which returns true only if both the value and the type are the same.
 '5' == 5   // true   (string is converted to number)
